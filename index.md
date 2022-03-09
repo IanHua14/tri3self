@@ -36,5 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-# TPT Q&A
+## TPT Q&A
+# TPT 5.1
+1.Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
+- three beneficial are it helps increase productivity, Keeps you connected, and can help make money
+- three negatives are it can cause an unhealthy habit, cause great amount of stress, and can cause an overall unhealthy lifestyle
 
