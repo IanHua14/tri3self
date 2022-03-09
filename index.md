@@ -41,4 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 1.Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
 - three beneficial are it helps increase productivity, Keeps you connected, and can help make money
 - three negatives are it can cause an unhealthy habit, cause great amount of stress, and can cause an overall unhealthy lifestyle
-
+2.Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
