@@ -11,6 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - three negatives are it can cause an unhealthy habit, cause great amount of stress, and can cause an overall unhealthy lifestyle
 2.Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
 - The use of computing can be related to dopamine due to the addictions created by many factors, an example is gaming, but this is also not all true since computing has created many positives for others. For parents now a days, technology is mostly seen as a negative. Technology has not affected me personally in my lifestyle but for others it may have.
+
 ## TPT 5.2 
 1.How does someone empower themself in a digital world?
 - Someone is able to empower themselves by gaining fame on social media, start up a business online that has become worldwide like amazon, and even starting an organization to cause positivity in the world
