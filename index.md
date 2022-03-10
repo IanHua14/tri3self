@@ -2,8 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/IanHua14/tri3self/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # TPT Q&A
 ## TPT 5.1
 1.Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
