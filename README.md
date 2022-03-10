@@ -1,2 +1,2 @@
 # tri3self
-tri 3 individual
+Jekyll page: https://ianhua14.github.io/tri3self/
